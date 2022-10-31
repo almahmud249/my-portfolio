@@ -34,7 +34,7 @@
               </span>
             </h3>
             <v-card-text class="text-color ml-2 mt-n3"
-              >May 2018 - Present</v-card-text
+              >Aug 2021 - Present</v-card-text
             >
             <div style="color: #7d87a4;font-size: 15px;" class="ml-4">
               <ul class="stl">
@@ -65,7 +65,7 @@ export default {
   data() {
     return {
       tab: null,
-      items: ["Appetizers", "Entrees", "Deserts", "Cocktails"],
+      items: ["Spagreen", "Spagreen", "Spagreen", "Spagreen"],
       text: "",
     };
   },

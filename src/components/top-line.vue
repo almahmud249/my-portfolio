@@ -4,7 +4,9 @@
     <h2 class="big-heading mt-3">Al Mahmud.</h2>
     <h5 class="big-heading mt-3">I build things for the web.</h5>
     <div class="mt-5">
-        <p class="eEjAsd mt-5">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at <a href="https://upstatement.com/" target="_blank" rel="noreferrer">Upstatement</a>.</p>
+        <p class="eEjAsd mt-5">Hello! My name is al mahmud and I enjoy creating things that live on the internet. My interest in web development started back in 2016 when I decided to try editing custom Tumblr themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
+<!--          <a href="https://upstatement.com/" target="_blank" rel="noreferrer">Upstatement</a>.-->
+        </p>
     </div>
     <div class="mt-10">
         <v-btn class="ma-2 text-capitalize" href="mailto:almahmud.job49@gmail.com" target="_blank" outlined color="#60e6cb">

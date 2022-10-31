@@ -23,7 +23,7 @@
             </ol>
             <h1 class="text-h3 mt-n3 font-weight-bold">Get In Touch</h1>
             <v-card-text>
-              Although I’m not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+              Although currently i am looking for new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
             </v-card-text>
             <div class="mt-10">
               <v-btn class="ma-2 text-capitalize" href="mailto:almahmud.job49@gmail.com" target="_blank" outlined color="#60e6cb">

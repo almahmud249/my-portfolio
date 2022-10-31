@@ -15,17 +15,25 @@
           </ol>
           <v-divider class="grey darken-3 mt-8 mb-n4"></v-divider>
           <p class="eEjAsd mt-5">
-            the internet. My interest in web development started back in 2012
-            when I decided to try editing custom Tumblr themes — turns out
-            hacking together a custom reblog button taught me a lot about HTML &
-            CSS! Fast-forward to today, and I’ve had the privilege of working at
-            an advertising agency, a start-up, a huge corporation, and a
-            student-led design studio. My main focus these days is building
-            accessible, inclusive products and digital experiences at
-            Upstatement for a variety of clients. I also recently launched a
-            course that covers everything you need to build a web app with the
-            Spotify API using Node & React. Here are a few technologies I’ve
-            been working with recently:
+            Hello! My name is al mahmud and I enjoy creating things that live on the internet.
+            My interest in web development started back in 2016 when I decided to try editing custom
+            Tumblr themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
+          </p>
+            <br>
+          <p class="eEjAsd">
+            Fast-forward to today, and I’ve had the privilege of working at
+            <span>
+                <a
+                    href="https://spagreen.net/"
+                    class="inline-link target-link"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                >Spagreen</a
+                >
+              </span>
+          </p>
+          <p class="eEjAsd">
+            My main focus these days is provides both cutting edge solutions and legacy system maintenance and also write clean, modern, reliable code
           </p>
         </v-col>
         <v-col class="mt-16 ml-5" cols="4">
@@ -48,7 +56,7 @@
               >
                 <v-img
                   class="iTdkQf"
-                  src="me.jpg"
+                  src="me.jfif"
                   max-width="350"
                   max-height="250"
                 ></v-img>
@@ -101,5 +109,11 @@ li.menu-margin.mt-3.li-ordering {
   /* mix-blend-mode: multiply; */
   /* filter: grayscale(100%) contrast(1); */
   transition: var(--transition);
+}
+p.eEjAsd {
+  max-width: 540px !important;
+  font-size: 17px;
+  color: #8892b0;
+  line-height: normal;
 }
 </style>
