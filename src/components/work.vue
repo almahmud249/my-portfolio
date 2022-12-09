@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="work">
     <v-container style="width: 1100px; height: 500px">
       <ol start="3" class="mb-2">
         <li class="menu-margin mt-3 li-ordering">
@@ -36,7 +36,7 @@
              <v-col>
                <v-card-title>
                  <a
-                     href="https://yooriapi.spagreen.net/"
+                     href="https://yoori.spagreen.net/"
                      target="_blank"
                      text
                      class="text-sm-h6 mr-6 ml-1 header-menu text-ellipse-one"
@@ -87,7 +87,7 @@
               <v-col>
                 <v-card-title>
                   <a
-                      href="https://beta.cryptocartrader.io/"
+                      href="https://beta.cryptocartrader.com/"
                       target="_blank"
                       text
                       class="text-sm-h6 mr-6 ml-1 header-menu text-ellipse-one"
@@ -110,7 +110,6 @@
                   <span class="subheading mr-3">PHP</span>
                   <span class="subheading mr-3">Laravel</span>
                   <span class="subheading mr-3">Vue.js</span>
-                  <span class="subheading mr-3">jQuery</span>
                 </v-row>
               </v-list-item>
             </v-card-actions>
@@ -139,7 +138,7 @@
               <v-col>
                 <v-card-title>
                   <a
-                      href="https://backend.thescrapapp.com/login"
+                      href="https://beta.thescrapapp.com/"
                       target="_blank"
                       text
                       class="text-sm-h6 mr-6 ml-1 header-menu text-ellipse-one"
@@ -162,7 +161,7 @@
                   <span class="subheading mr-3">PHP</span>
                   <span class="subheading mr-3">Laravel</span>
                   <span class="subheading mr-3">Vue.js</span>
-                  <span class="subheading mr-3">jQuery</span>
+                  <span class="subheading mr-3">Nuxt.js</span>
                 </v-row>
               </v-list-item>
             </v-card-actions>
@@ -183,16 +182,5 @@ export default {
 };
 </script>
 <style>
-.text-ellipse-one {
-  display: -webkit-box !important;
-  -webkit-line-clamp: 1;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-.subheading{
-  color: #6d819b !important;
-  font-size: 15px;
-  font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", monospace;
-}
+
 </style>

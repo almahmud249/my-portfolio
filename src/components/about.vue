@@ -1,6 +1,6 @@
 <template>
+  <div id="about">
   <v-container style="width: 1000px; height: 500px">
-    <div>
       <v-row>
         <v-col>
           <ol start="1" class="mb-n8">
@@ -8,7 +8,6 @@
               <a
                 text
                 class="mr-6 ml-1 header-menu mt-3 ordering"
-                @click="scroll('project')"
                 >About</a
               >
             </li>
@@ -49,14 +48,14 @@
           <template>
             <v-hover v-slot="{ hover }">
               <v-card
-                :elevation="hover ? 12 : 10"
+                :elevation="hover ? 12 : 0"
                 :class="{ 'on-hover': hover }"
                 rounded
                 
               >
                 <v-img
                   class="iTdkQf"
-                  src="me.jfif"
+                  src="me.jpeg"
                   max-width="350"
                   max-height="250"
                 ></v-img>
@@ -65,8 +64,8 @@
           </template>
         </v-col>
       </v-row>
-    </div>
   </v-container>
+  </div>
 </template>
 <script>
 export default {
@@ -85,35 +84,5 @@ export default {
 };
 </script>
 <style scoped>
-.ordering {
-  font-size: 30px;
-}
-li.menu-margin.mt-3.li-ordering {
-  font-size: 20px;
-}
-.v-card {
-  transition: opacity 0.4s ease-in-out;
-}
 
-.v-card:not(.on-hover) {
-  opacity: 0.6;
-}
-.theme--light.v-sheet {
-  /* background-color: #FFFFFF; */
-  border-color: #ffffff;
-  color: rgba(0, 0, 0, 0.87);
-}
-.iTdkQf {
-  position: relative;
-  border-radius: var(--border-radius);
-  /* mix-blend-mode: multiply; */
-  /* filter: grayscale(100%) contrast(1); */
-  transition: var(--transition);
-}
-p.eEjAsd {
-  max-width: 540px !important;
-  font-size: 17px;
-  color: #8892b0;
-  line-height: normal;
-}
 </style>

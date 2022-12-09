@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="experience">
     <v-container style="width: 800px; height: 500px">
       <v-card color="basil" tile flat>
         <ol start="2" class="mb-2">
@@ -7,7 +7,7 @@
             <a
               text
               class="mr-6 ml-1 header-menu mt-3 ordering"
-              @click="scroll('project')"
+
               >Where I’ve Worked</a
             >
           </li>
@@ -65,7 +65,7 @@ export default {
   data() {
     return {
       tab: null,
-      items: ["Spagreen", "Spagreen", "Spagreen", "Spagreen"],
+      items: ["Spagreen", "SoftIconic", "ExcelIt", "MyWork"],
       text: "",
     };
   },
@@ -73,33 +73,5 @@ export default {
 </script>
 <style>
 /* Helper classes */
-.basil {
-  background-color: rgb(10 25 47) !important;
-}
-.basil--text {
-  color: #356859 !important;
-}
-.v-tab.v-tab {
-  color: #a9b6c7 !important;
-}
-.ordering {
-  font-size: 30px;
-}
-li.menu-margin.mt-3.li-ordering {
-  font-size: 20px;
-}
-.v-card__text.text-color {
-  color: #a9b6c7 !important;
-}
-.v-sheet.v-card {
-  /* border-radius: 4px; */
-}
-.target-link {
-  text-decoration: none;
-  color: #79dac3 !important;
-}
-ul.stl li::before {content: "•"; color:#64ffda;
-  display: inline-block; width: 0.8em;
-  margin-left: -1em}
-ul.stl {list-style: none}
+
 </style>
