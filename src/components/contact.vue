@@ -1,6 +1,6 @@
 <template>
   <div id="contact">
-    <v-container style="width: 1100px; height: 500px">
+    <v-container style="width: 1100px; height: 500px" class="mt-lg-15">
 
       <v-row class="mt-4">
         <v-col>

@@ -15,19 +15,18 @@
           <v-divider class="grey darken-3 mt-8 mb-n4"></v-divider>
           <p class="eEjAsd mt-5">
             Hello! My name is al mahmud and I enjoy creating things that live on the internet.
-            My interest in web development started back in 2016 when I decided to try editing custom
-            Tumblr themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
+            My interest in web development started back in 2019 when I decided to develop API for Android application.
           </p>
             <br>
           <p class="eEjAsd">
             Fast-forward to today, and I’ve had the privilege of working at
             <span>
                 <a
-                    href="https://spagreen.net/"
+                    href="https://www.excelitai.com/web/"
                     class="inline-link target-link"
                     rel="noopener noreferrer"
                     target="_blank"
-                >Spagreen</a
+                >Excelitai</a
                 >
               </span>
           </p>
@@ -57,7 +56,7 @@
                   class="iTdkQf"
                   src="me.jpeg"
                   max-width="350"
-                  max-height="250"
+                  max-height="300"
                 ></v-img>
               </v-card>
             </v-hover>

@@ -4,7 +4,7 @@
     <h2 class="big-heading mt-3">Al Mahmud.</h2>
     <h5 class="big-heading mt-3">I build things for the web.</h5>
     <div class="mt-5">
-        <p class="eEjAsd mt-5">Hello! My name is al mahmud and I enjoy creating things that live on the internet. My interest in web development started back in 2016 when I decided to try editing custom Tumblr themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
+        <p class="eEjAsd mt-5">Since beginning my journey as a web developer over 3 years ago, I've done remote work for agencies, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving myself.
 <!--          <a href="https://upstatement.com/" target="_blank" rel="noreferrer">Upstatement</a>.-->
         </p>
     </div>
